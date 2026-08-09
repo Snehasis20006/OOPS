@@ -1,0 +1,3 @@
+in the above file crazy.c i have declared a friend function whose task is to acces the private datatypes of the class .
+As the name state that private no one outside the class can acess them but using friend i had acceses these in my int function.
+So if anyone asks what is the work of the friend function you can say it .
